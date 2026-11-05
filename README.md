@@ -43,7 +43,7 @@ technologies.
 
  📫 Connect With
 
-- 💼 LinkedIn: [[Add your LinkedIn link](https://www.linkedin.com/in/prabha-palepu/)]
+- 💼 LinkedIn: [[https://www.linkedin.com/in/prabha-palepu/](https://www.linkedin.com/in/prabha-palepu/)]
 
 ---
 
